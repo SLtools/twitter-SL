@@ -1,0 +1,5 @@
+1)Tweet files are tab-separated
+2)CSV without tweets are comma-separated
+3)The search appears to return accounts that have been retweeted by users nearby.   So the top of the popular file contains users not actually in CA10
+
+
